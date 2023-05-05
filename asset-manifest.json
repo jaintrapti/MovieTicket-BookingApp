@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MovieTicket-BookingApp/static/css/main.433f9ee7.css",
+    "main.js": "/MovieTicket-BookingApp/static/js/main.7b2a3624.js",
+    "static/js/787.d0a94995.chunk.js": "/MovieTicket-BookingApp/static/js/787.d0a94995.chunk.js",
+    "index.html": "/MovieTicket-BookingApp/index.html",
+    "main.433f9ee7.css.map": "/MovieTicket-BookingApp/static/css/main.433f9ee7.css.map",
+    "main.7b2a3624.js.map": "/MovieTicket-BookingApp/static/js/main.7b2a3624.js.map",
+    "787.d0a94995.chunk.js.map": "/MovieTicket-BookingApp/static/js/787.d0a94995.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.433f9ee7.css",
+    "static/js/main.7b2a3624.js"
+  ]
+}
