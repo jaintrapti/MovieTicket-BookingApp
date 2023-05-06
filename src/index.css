@@ -115,4 +115,11 @@ input{
     position: absolute;
     left: 80px;
   }
+  .para{
+    margin-bottom: 20px;
+  }
+  .list{
+    position: absolute;
+    left: -534px;
+  }
 }
