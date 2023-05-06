@@ -122,4 +122,10 @@ input{
     position: absolute;
     left: -574px;
   }
+  .subHead{
+    font-size: 27px;
+  }
+  .text{
+    font-size: 24px;
+  }
 }
